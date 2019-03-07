@@ -1,0 +1,9 @@
+
+td{
+border: 1px solid gray;
+}
+td a{
+	color: black;
+	box-shadow: 2px;
+	text-align: center; 
+}
